@@ -22,6 +22,7 @@ Clone the repository and run the installation script to set up the dependencies:
 git clone https://github.com/Sundxr2005/Web-Crawler.git
 cd Web-Crawler
 pip install -r requirements.txt
+```
 
 ## Usage
 
