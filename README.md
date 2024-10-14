@@ -19,6 +19,15 @@ This tool is designed to crawl websites and extract all URL parameters, storing 
 ## Installation
 Clone the repository and run the installation script to set up the dependencies:
 ```bash
-git clone https://github.com/Sundxr2005/web-crawler-tool.git
-cd web-crawler-tool
+git clone https://github.com/Sundxr2005/Web-Crawler.git
+cd Web-Crawler
 pip install -r requirements.txt
+
+## Usage
+
+### Command-Line Interface (CLI) Mode
+
+To run the tool in CLI mode, use the following command:
+```bash
+python "web crawler.py" --url "http://example.com"
+
